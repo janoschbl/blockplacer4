@@ -4,10 +4,3 @@
   <img alt="janoschbl's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/janoschbl?v=1789665998884"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
